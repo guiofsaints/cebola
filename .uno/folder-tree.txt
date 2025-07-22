@@ -1,0 +1,70 @@
+OnionUI Project Structure
+========================
+
+C:\WORKSPACE\ONION
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   └── workflows/
+├── files/
+│   ├── 20230617/
+│   └── 20240310/
+├── include/           # Header files and libraries
+│   ├── cjson/
+│   ├── gfx/
+│   ├── png/
+│   ├── SDL/
+│   ├── shmvar/
+│   └── sqlite3/
+├── lib/               # Compiled libraries
+├── src/               # Main source code
+│   ├── axp/
+│   ├── batmon/
+│   ├── batteryMonitorUI/
+│   ├── bootScreen/
+│   ├── chargingState/
+│   ├── clock/
+│   ├── common/        # Shared utilities and components
+│   ├── cpuclock/
+│   ├── detectKey/
+│   ├── easter/
+│   ├── gameNameList/
+│   ├── gameSwitcher/  # Game switching interface
+│   ├── infoPanel/
+│   ├── installUI/
+│   ├── jpg2png/
+│   ├── keymon/
+│   ├── libgamename/
+│   ├── mainUiBatPerc/
+│   ├── packageManager/
+│   ├── pippi/
+│   ├── playActivity/
+│   ├── playActivityUI/
+│   ├── pngScale/
+│   ├── pressMenu2Kill/
+│   ├── prompt/
+│   ├── randomGamePicker/
+│   ├── read_uuid/
+│   ├── renameRom/
+│   ├── sendkeys/
+│   ├── sendUDP/
+│   ├── setState/
+│   ├── themeSwitcher/
+│   ├── tree/
+│   └── tweaks/        # System settings and configuration
+├── static/            # Static assets and configurations
+│   ├── build/
+│   ├── configs/
+│   └── packages/
+├── test/              # Test files
+├── third-party/       # External dependencies
+│   ├── DinguxCommander/
+│   ├── RetroArch-patch/
+│   ├── SearchFilter/
+│   └── Terminal/
+├── website/           # Documentation website (Docusaurus)
+│   ├── docs/
+│   ├── versioned_docs/
+│   └── package.json
+├── LICENSE
+├── Makefile           # Main build system
+└── README.md

@@ -1,0 +1,22 @@
+{
+	"88":	"Seleccionar",
+	"89":	"Atrás",
+	"90":	"Navegar",
+	"91":	"Menú",
+	"92":	"Continuar",
+	"93":	"Guardar",
+	"94":	"Cargar",
+	"95":	"Volumen",
+	"96":	"Salir del juego",
+	"97":	"Ranura de guardado %d/%d",
+	"98":	"Vacío",
+	"99":	"No hay imágenes",
+	"100":	"Carga fallida",
+	"101":	"Guardado fallido",
+	"102":	"Ranura %d guardada",
+	"103":	"Pantalla completa",
+	"104":	"Activo",
+	"105":	"Inactivo",
+	"106":  "Menú antiguo",
+    "138":  "Juego en red"
+}
